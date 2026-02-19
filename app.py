@@ -1,0 +1,1 @@
+print("MLOps CI/CD Project started successfully!")

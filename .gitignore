@@ -1,0 +1,20 @@
+# virtual environment
+venv/
+env/
+
+# python cache
+__pycache__/
+*.pyc
+
+# models & data
+models/
+data/
+*.pkl
+*.h5
+
+# system
+.DS_Store
+Thumbs.db
+
+# secrets
+.env
