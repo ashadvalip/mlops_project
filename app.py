@@ -1,1 +1,1 @@
-print("MLOps CI/CD Project started successfully!")
+print("API endpoint coming soon")
